@@ -1,0 +1,22 @@
+id: https://w3id.org/shawntanzk/linkml-tutorial
+name: linkml-tutorial
+title: linkml-tutorial
+description: |-
+  linkml tutorial
+license: MIT
+see_also:
+  - https://shawntanzk.github.io/linkml-tutorial
+
+prefixes:
+  linkml_tutorial: https://w3id.org/shawntanzk/linkml-tutorial/
+  linkml: https://w3id.org/linkml/
+  biolink: https://w3id.org/biolink/
+  schema: http://schema.org/
+  PATO: http://purl.obolibrary.org/obo/PATO_
+  example: https://example.org/
+default_prefix: linkml_tutorial
+default_range: string
+
+imports:
+  - linkml:types
+  - personinfo_enums

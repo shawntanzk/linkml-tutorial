@@ -1,0 +1,28 @@
+{
+  "template": "http://github.com/linkml/linkml-project-cookiecutter",
+  "commit": "38868cb133d303dc77db77f25ef98973e57d2ecd",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "linkml-tutorial",
+      "__project_slug": "linkml_tutorial",
+      "github_org": "shawntanzk",
+      "__source_path": "src/linkml_tutorial/schema/linkml_tutorial.yaml",
+      "project_description": "linkml tutorial",
+      "full_name": "Shawn Tan Zheng Kai",
+      "email": "shawntanzk@outlook.com",
+      "__author": "Shawn Tan Zheng Kai <shawntanzk@outlook.com>",
+      "license": "MIT",
+      "google_analytics_gtag": "G-2SYBSJVZ23",
+      "main_schema_class": "Person",
+      "create_python_classes": "No",
+      "use_schemasheets": "Yes",
+      "google_sheet_id": "1wVoaiFg47aT9YWNeRfTZ8tYHN8s8PAuDx5i2HUcDpvQ",
+      "google_sheet_tabs": "personinfo enums",
+      "__google_sheet_module": "personinfo_enums",
+      "github_token_for_pypi_deployment": "PYPI_PASSWORD",
+      "_template": "http://github.com/linkml/linkml-project-cookiecutter"
+    }
+  },
+  "directory": null
+}
